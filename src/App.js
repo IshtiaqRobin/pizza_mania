@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <div>
         <p>Pizza Mania</p>
+        <p><small>author: ishtiaq_robin</small></p>
       </div>
     </div>
   );
